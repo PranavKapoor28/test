@@ -135,8 +135,7 @@ public class AlphaNumbers {
 	 */
 	private static void demoSolutionMondayCSYE6200_03_13768() {
 		System.out.println(AlphaNumbers.class.getSimpleName() + " REQUIREMENTS (Monday CSYE6200 03 CRN 13768)");
-		/**
-		 */
+
 		AlphaNumbers obj = new AlphaNumbers();
 
 		Arrays.sort(obj.K_A_CHAR_DATA);
